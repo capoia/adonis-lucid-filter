@@ -26,6 +26,8 @@ declare module '@adonisjs/lucid/types/model' {
     ): ModelQueryBuilderContract<Model, InstanceType<Model>>
   }
 
-  export interface ModelQueryBuilderContract<Model extends LucidModel, Result = InstanceType<Model>>
-    extends ExcludeFilterableMethods<FilterableMethods<Model>, Model> {}
+  export interface ModelQueryBuilderContract<
+    Model extends LucidModel,
+    Result = InstanceType<Model>,
+  > extends ExcludeFilterableMethods<FilterableMethods<Model>, Model> {}
 }
