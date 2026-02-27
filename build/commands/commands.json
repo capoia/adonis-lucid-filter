@@ -1,0 +1,1 @@
+{"commands":[{"commandName":"make:filter","description":"Make a new Lucid filter","help":"","namespace":"make","aliases":[],"flags":[],"args":[{"name":"name","argumentName":"name","required":true,"description":"Name of the model file","type":"string"}],"options":{},"filePath":"make_filter.js"}],"version":1}

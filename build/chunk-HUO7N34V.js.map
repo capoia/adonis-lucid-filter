@@ -1,0 +1,1 @@
+{"version":3,"sources":["../stubs/main.ts"],"sourcesContent":["/*\n * adonis-lucid-filter\n *\n * (c) Lookin Anton <alf@lookinlab.ru>\n *\n * For the full copyright and license information, please view the LICENSE\n * file that was distributed with this source code.\n */\n\nexport const stubsRoot = import.meta.dirname\n"],"mappings":";AASO,IAAM,YAAY,YAAY;","names":[]}
